@@ -152,7 +152,7 @@ class App(ctk.CTk):
 
         logo_label = ctk.CTkLabel(
             self.sidebar,
-            text="🕹️ game Center",
+            text="🕹️ Game Center",
             font=ctk.CTkFont(size=24, weight="bold")
         )
         logo_label.grid(row=0, column=0, padx=20, pady=(20, 30))
