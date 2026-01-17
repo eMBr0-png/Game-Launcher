@@ -2,7 +2,8 @@
 
 **Game Center** — это десктопное приложение на Python для управления библиотекой компьютерных игр.  
 Программа позволяет добавлять игры, запускать их, отслеживать общее время игры и настраивать обложки — всё в удобном графическом интерфейсе.
-<img width="1920" height="1080" alt="python_wvvY7MBGgc" src="https://github.com/user-attachments/assets/e561ec87-6a84-4cca-af6a-226ff8e52cae" />
+<img width="999" height="630" alt="Zoom_jPg5csQuXV" src="https://github.com/user-attachments/assets/ced13663-1c22-4482-912d-79d9f3d9d8ab" />
+
 
 Приложение написано с использованием **CustomTkinter** и ориентировано на пользователей Windows.
 
